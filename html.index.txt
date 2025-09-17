@@ -1,0 +1,67 @@
+box-shadow: 4px 4px 15px rgba(166, 87, 32, 0.4);
+      font-size: 1.2rem;
+      text-align: center;
+      color: #6b3c1b;
+      line-height: 1.6;
+      user-select: none;
+    }
+
+    .quote {
+      font-family: 'Pacifico', cursive;
+      font-size: 1.6rem;
+      font-style: italic;
+      color: #b75c1f;
+      margin-top: 1.5rem;
+      text-shadow: 1px 1px 2px #fff2e6;
+      user-select: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem 0 3rem;
+      font-size: 0.9rem;
+      color: #9a5f38;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    Happy 19th Birthday, Taniya! 🎉
+    <div class="subtitle">May your travels and debates bring endless joy and wisdom</div>
+  </header>
+
+  <div class="video-animation" aria-label="Autumn trees animation with floating leaves">
+    <div class="trees">
+      <div class="tree"></div>
+      <div class="tree"></div>
+      <div class="tree"></div>
+      <div class="tree"></div>
+      <div class="tree"></div>
+      <div class="tree"></div>
+    </div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+  </div>
+
+  <div class="message-box">
+    <p>Dear Taniya,</p>
+    <p>At 19, may you always explore new horizons and speak your truth with courage. Your passion for traveling, debating, and standing strong in your beliefs shows your vibrant spirit. Just like beautiful autumn trees, may you grow stronger and more colorful with every season of life.</p>
+    
+    <p class="quote">“The trees are about to show us how lovely it is to let things go.” — Unknown</p>
+    <p class="quote">“Travel far, debate fierce, live fully.”</p>
+    <p class="quote">“In every walk with nature, one receives far more than he seeks.” — John Muir</p>
+    <p class="quote">“Life is either a daring adventure or nothing at all.” — Helen Keller</p>
+    <p class="quote">“Wherever you go becomes a part of you somehow.” — Anita Desai</p>
+    <p class="quote">“A tree with strong roots laughs at storms.” — Matshona Dhliwayo</p>
+    
+    <p>Wishing you a warm, joyful birthday filled with love, laughter, and endless adventures!</p>
+  </div>
+
+  <footer>
+    Made with ❤️ for the wonderful Taniya — A proud Jatni and spirited BJP supporter
+  </footer>
+</body>
+</html>
